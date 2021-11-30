@@ -16,6 +16,6 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danbadds38&theme=dracula" />
 </a>
 
-
+## 📊 GitHub Stats:
 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbadds38&show_icons=true&theme=radical)
