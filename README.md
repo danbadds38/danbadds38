@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on (artificial intelligence & machine learning)
 - 🤔 I’m looking for help with (good ideas)
 - 💬 Ask me about (anything technology)
-- 📫 How to reach me: (baddeley.engineering@gmail.com)
+- 📫 How to reach me: (dan.baddeley@bestdefense.io)
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact: (I also make music)
 
