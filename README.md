@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/bestdefense.io-0d1117?style=for-the-badge&logo=google-chrome&logoColor=6e40c9)](https://bestdefense.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/dan-baddeley)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:dan.baddeley@bestdefense.io)
-[![TechStars](https://img.shields.io/badge/TechStars-2025-6e40c9?style=for-the-badge&logoColor=white)](https://www.techstars.com/portfolio?q=BestDefense)
+[![TechStars](https://img.shields.io/badge/TechStars-2025-6e40c9?style=for-the-badge&logoColor=white)](https://techstars.com)
 [![vortex-action](https://img.shields.io/badge/vortex--action-0d1117?style=for-the-badge&logo=github-actions&logoColor=6e40c9)](https://github.com/BestDefense-io/vortex-action)
 
 </div>
@@ -70,23 +70,15 @@ Currently exploring ──► Agentic AI remediation & autonomous red-teaming
 ---
 
 ## 🧰 Tech stack
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,symfony,ts,nodejs,docker,aws,redis,postgres,github,linux" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=php,symfony,python,ts,nodejs,docker,aws,redis,postgres,github,linux" alt="Tech stack icons" />
 
 </div>
 
 <br/>
-
-| Layer | Stack |
-|-------|-------|
-| **Backend** | PHP 8.3 · Symfony 7.1 · Doctrine ORM · JWT · OAuth2 |
-| **Frontend** | TypeScript · Bootstrap · Webpack Encore |
-| **Infrastructure** | AWS ECS · SQS · S3 · KMS · LocalStack · Docker |
-| **Data** | PostgreSQL · Redis · Elasticsearch |
-| **CI/CD** | GitHub Actions · AppSpec · ECS rolling deployments |
-| **Security** | ZAP · Custom scan engines · HMAC webhooks · DPoP · CEaaS |
 
 ---
 
