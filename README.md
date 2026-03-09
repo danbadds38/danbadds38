@@ -74,7 +74,7 @@ Currently exploring ──► Agentic AI remediation & autonomous red-teaming
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,symfony,python,ts,nodejs,docker,aws,redis,postgres,github,linux" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=php,symfony,python,ts,nodejs,docker,aws,gcp,azure,redis,postgres,github,linux" alt="Tech stack icons" />
 
 </div>
 
